@@ -1,17 +1,3 @@
-"""CSC108/A08: Fall 2021 -- Assignment 2: voting
-
-This code is provided solely for the personal and private use of
-students taking the CSC108/CSCA08 course at the University of
-Toronto. Copying for purposes other than this use is expressly
-prohibited. All forms of distribution of this code, whether as given
-or with any changes, are expressly prohibited.
-
-All of the files in this directory and all subdirectories are:
-Copyright (c) 2021 Michelle Craig, Sophia Huynh, Sadia Sharmin,
-Elizabeth Patitsas, Anya Tafliovich.
-
-"""
-
 from typing import List
 
 from constants import (COL_RIDING, COL_VOTER, COL_RANK, COL_RANGE,
